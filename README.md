@@ -1,5 +1,5 @@
 
-HEllO AM SATRIA AKA AMELLIAS
+HELLO AM SATRIA AKA AMELLIAS
 
 Welcome to my little space on Githhub. Here i put all my progress when learing code.
 
